@@ -1,4 +1,4 @@
-# diffusionkit
+# DiffusionKit
 ### A light one-stop cross-platform solution to dMRI data analysis. ###
 
 This is the source code of the webpage for DiffusionKit, http://diffusion.brainnetome.org/.
